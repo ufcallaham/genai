@@ -1,0 +1,50 @@
+student_id,post_colors,seeded
+S16,"orange, orange, orange, orange, orange, orange, red, purple, purple, yellow",FALSE
+S17,"purple, purple, purple, purple, purple, purple, purple, purple, yellow, red",FALSE
+S08,"orange, orange, orange, orange, orange, orange, orange, orange, orange, purple",FALSE
+S15,"purple, purple, purple, purple, purple, purple, purple, purple, orange, orange, green",FALSE
+S12,"orange, orange, orange, orange, orange, orange, orange, orange, orange, orange",FALSE
+S21,"Red, orange, purple",FALSE
+S03,"green, yellow, yellow, purple, purple, purple, purple, purple, purple, purple ",FALSE
+S07,"yellow, orange, purple, purple, purple, purple, purple, purple, purple, purple",FALSE
+S18,"yellow, yellow, yellow, yellow, yellow, yellow, yellow, purple, purple, orange, orange",TRUE
+s14,"green, green, green, green, green, yellow, yellow, purple, purple, purple",TRUE
+S25,"orange, orange, orange, orange, orange, orange, orange, purple, purple, yellow",FALSE
+S23,"orange, orange, orange, orange, orange, orange, orange, orange, orange, orange",FALSE
+S20,"orange, orange, orange, orange, orange, orange, purple, purple, purple, green",FALSE
+S24,"orange, orange, orange, orange, orange, orange, red, purple, purple",FALSE
+S05,"purple, purple, purple, purple, purple, purple, purple, orange, orange, yellow",FALSE
+S22,"yellow, yellow, yellow, yellow, yellow, yellow, yellow, orange, green, purple",TRUE
+S06,"red, red, red, red, red, red, orange, orange, purple, purple",TRUE
+S11,"brown, brown, brown, brown, brown, brown, brown, brown, orange, orange ",FALSE
+S04,"orange, orange, orange, orange, orange, orange, orange, orange, orange, purple",FALSE
+S13,"green, green, purple, purple, purple, purple, purple, purple, purple, purple",FALSE
+S09,"purple, purple, purple, purple, purple, purple, purple, orange, orange, green",FALSE
+S02,"green, green, green, green, green, green, orange, purple, purple, purple",TRUE
+S19,"orange, orange, orange, orange, orange, orange, orange, orange, green, yellow",FALSE
+S01,"orange, purple, purple, purple, purple, purple, purple, purple, purple, purple",FALSE
+S10,"orange, orange, green, yellow, yellow, yellow, yellow, yellow, yellow, yellow",TRUE
+S12,"orange, orange, orange, orange, orange, orange, orange, purple, purple, purple",FALSE
+S24,"orange, purple, red, yellow",FALSE
+S25,"yellow, orange, orange, orange, orange, purple, purple, purple, purple, purple ",FALSE
+S11,"purple, purple, purple, purple, purple, purple, purple, orange, orange, green",FALSE
+S19,"orange, orange, orange, orange, orange, orange, orange, orange, red, red, purple",FALSE
+S13,"yellow,orange,orange,purple,purple,purple,purple,purple,purple,purple",FALSE
+S03,"yellow, orange, orange, purple, purple, purple, purple, purple, purple, purple",FALSE
+S14,"orange, orange, orange, orange, orange, orange, purple, green, green, green, green, green, green",TRUE
+SO4,"orange, orange, orange, orange, orange, yellow, green, purple, purple, purple",FALSE
+SI5,"yellow, orange, orange, orange, orange, purple, purple, purple, purple, purple ",FALSE
+S06,"red, red, red, red, red, red, purple, orange, orange, yellow",TRUE
+S07,"green, red, orange, orange, purple, purple, purple, purple, purple, purple",FALSE
+S16,"orange, orange, orange, orange, orange, orange, orange, purple, purple, purple, green",FALSE
+S20,"orange, orange, orange, orange, orange, orange, orange, orange, yellow, purple",FALSE
+S23,"orange, orange, orange, orange, orange, orange, purple, purple, yellow",FALSE
+S24,"orange, orange, orange, orange, orange, orange, purple, purple, yellow, red",FALSE
+SO8,"orange, green, purple",FALSE
+S22,"yellow, yellow, yellow, yellow, yellow, yellow, yellow, orange, orange, orange, orange orange, green, purple,  purple",TRUE
+S01,"yellow, orange, orange, green, purple, purple, purple, purple, purple, purple",FALSE
+S18,"yellow, yellow, yellow, yellow, green, green, orange, orange, purple, purple",TRUE
+S09,"yellow, orange, purple, purple, purple, purple, purple, purple, purple, purple, purple",FALSE
+S21,"purple, purple, purple, purple, purple, purple, orange, orange, orange ",FALSE
+S10,"yellow, yellow, yellow, yellow, yellow, yellow, yellow, purple, purple, orange",TRUE
+S02,"Green, purple, orange",TRUE
